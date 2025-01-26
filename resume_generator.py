@@ -7,7 +7,7 @@ RESUME_CONTENT = {
     "title": "Marketing Manager",
     "contact_info": [
         "123 Anywhere St., Any City, ST 12345",
-        "hello@reallygreatsite.com",
+        "lmao@fr.com",
         "+123-456-7890"
     ],
     "about_me": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -18,13 +18,13 @@ RESUME_CONTENT = {
     "education": [
         {
             "degree": "Bachelor of Business Management",
-            "university": "Borcelle University",
+            "university": "British University",
             "years": "2016 - 2020",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu."
         },
         {
             "degree": "Bachelor of Business Management",
-            "university": "Borcelle University",
+            "university": "British University",
             "years": "2020 - 2023",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu."
         }
@@ -32,7 +32,7 @@ RESUME_CONTENT = {
     "experience": [
         {
             "position": "Product Design Manager",
-            "org": "Arowwai Industries",
+            "org": "Ned Industries",
             "years": "2016 - 2020",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet sem nec risus egestas accumsan. In enim nunc, tincidunt ut quam eget, luctus sollicitudin neque. Sed leo nisl, semper ac hendrerit a, sollicitudin in arcu."
         },
